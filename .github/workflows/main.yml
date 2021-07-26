@@ -24,6 +24,6 @@ jobs:
         aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         application_name: django-test
         environment_name: Djangotest-env
-        version_label: 112321asdsasasdwqewqee
+        version_label: 112321asdsasa
         region: ${{ secrets.REGION }}
         deployment_package: deploy.zip
